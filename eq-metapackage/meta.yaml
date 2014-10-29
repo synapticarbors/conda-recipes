@@ -1,0 +1,20 @@
+package:
+    name: eq-metapackage
+    version: 0.1
+
+build:
+    number: 0
+
+requirements:
+    run:
+        - python
+        - anaconda ==2.1.0
+        - numpy 1.9*
+        - pyside ==1.2.1
+        - seaborn
+        - mysql-connector-python
+        - rpy2
+        - iopro ==1.6.7
+
+about:
+    summary: This is a metapackage of for the eq project
