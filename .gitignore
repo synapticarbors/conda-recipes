@@ -1,0 +1,12 @@
+*.py[cod]
+*.np[yz]
+
+# C extensions
+*.so
+
+# Packages
+win-64
+
+# vim
+*.swp
+*.swo

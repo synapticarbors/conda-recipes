@@ -33,6 +33,8 @@ requirements:
     - python
 
 test:
+  imports:
+      - mysql.connector
   # Python imports
   # imports:
 
